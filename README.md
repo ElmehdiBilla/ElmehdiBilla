@@ -1,4 +1,4 @@
-![👋 Hi, my name is Elmehdi Billa](https://raw.githubusercontent.com/ElmehdiBilla/img/refs/heads/main/Colored%20Shapes.svg)
+![👋 Hi, my name is Elmehdi Billa](https://raw.githubusercontent.com/ElmehdiBilla/img/refs/heads/main/World%20Map.svg)
 
 <div id="toc">
   <ul align="left" style="list-style: none">
